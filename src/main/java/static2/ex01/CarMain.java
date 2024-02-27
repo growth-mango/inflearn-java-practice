@@ -7,6 +7,5 @@ public class CarMain {
         Car car3 = new Car("casper");
 
         Car.showTotalCars() ; // 구매한 차량 수를 출력하는 static 메서드
-
     }
 }
